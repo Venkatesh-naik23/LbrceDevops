@@ -6,6 +6,7 @@ public class welcome {
 		// TODO Auto-generated method stub
 		
 		System.out.println("welcome");
+		System.out.println("LBRCE");
 
 	}
 
